@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+char carta1;
+char estado; 
+char código;
+char nome; fortaleza
+int população; 2,574,412
+float Área em km²; 314,8 km²
+float pib;74,436 bilhões
+int pontos turisticos;
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
